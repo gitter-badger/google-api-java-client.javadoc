@@ -1,0 +1,86 @@
+OK: com.google.api.client.xml.AbstractXmlHttpContent Class
+OK: com.google.api.client.googleapis.xml.atom.AtomPatchRelativeToOriginalContent Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.json.DiscoveryDocument.ServiceDefinition Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.json.DiscoveryDocument.ServiceMethod Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.json.DiscoveryDocument.ServiceParameter Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.json.DiscoveryDocument.ServiceResource Class
+OK: com.google.api.client.auth.HmacSha Class
+OK: com.google.api.client.googleapis.json.JsonCContent Class
+OK: com.google.api.client.googleapis.json.JsonCParser Class
+OK: com.google.api.client.json.JsonHttpContent Class
+OK: com.google.api.client.json.JsonHttpParser Class
+OK: com.google.api.client.googleapis.MethodOverrideIntercepter Class
+OK: com.google.api.client.xml.XmlHttpContent Class
+OK: com.google.api.client.xml.XmlHttpParser Class
+MISSING @SINCE TAG: com.google.api.client.http.GenericUrl Method appendRawPath(java.lang.String)
+NO DOC BLOCK: com.google.api.client.apache.ApacheHttpTransport Method buildHeadRequest(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.http.HttpTransport Method buildHeadRequest()
+MISSING @SINCE TAG: com.google.api.client.http.LowLevelHttpTransport Method buildHeadRequest(java.lang.String)
+NO DOC BLOCK: com.google.api.client.javanet.NetHttpTransport Method buildHeadRequest(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.http.HttpTransport Method buildRequest()
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Method canonicalMap()
+MISSING @SINCE TAG: com.google.api.client.http.InputStreamContent Method copy(java.io.InputStream, java.io.OutputStream)
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleTransport Method create()
+OK: com.google.api.client.util.Base64 Method encode(byte[], int, int)
+MISSING @SINCE TAG: com.google.api.client.http.GenericUrl Method getAll(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.http.GenericUrl Method getFirst(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Method getGoogleLoginValue(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.http.GenericUrl Method getRawPath()
+MISSING @SINCE TAG: com.google.api.client.googleapis.json.DiscoveryDocument Method load(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.json.Json Method parseArray(JsonParser, java.lang.Class<?>, java.lang.Class<T>, com.google.api.client.json.CustomizeJsonParser)
+MISSING @SINCE TAG: com.google.api.client.json.Json Method parseArray(JsonParser, java.util.Collection<? super T>, java.lang.Class<T>, com.google.api.client.json.CustomizeJsonParser)
+MISSING @SINCE TAG: com.google.api.client.json.Json Method parseArrayAndClose(JsonParser, java.lang.Class<?>, java.lang.Class<T>, com.google.api.client.json.CustomizeJsonParser)
+MISSING @SINCE TAG: com.google.api.client.json.Json Method parseArrayAndClose(JsonParser, java.util.Collection<? super T>, java.lang.Class<T>, com.google.api.client.json.CustomizeJsonParser)
+MISSING @SINCE TAG: com.google.api.client.util.FieldInfo Method parsePrimitiveValue(java.lang.Class<?>, java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.http.HttpTransport Method removeIntercepters(java.lang.Class<?>)
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Method setApplicationName(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.http.InputStreamContent Method setByteArrayInput(byte[])
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Method setDeveloperId(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Method setGoogleLogin(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.http.GenericUrl Method setRawPath(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Method setSlugFromFileName(java.lang.String)
+NO DOC BLOCK: com.google.api.client.apache.ApacheHttpTransport Method supportsHead()
+MISSING @SINCE TAG: com.google.api.client.http.LowLevelHttpTransport Method supportsHead()
+NO DOC BLOCK: com.google.api.client.javanet.NetHttpTransport Method supportsHead()
+MISSING @SINCE TAG: com.google.api.client.http.GenericUrl Method toPathParts(java.lang.String)
+NO DOC BLOCK: com.google.api.client.googleapis.json.JsonFeedParser Method use(com.google.api.client.http.HttpResponse, java.lang.Class<T>, java.lang.Class<I>)
+NO DOC BLOCK: com.google.api.client.googleapis.json.JsonMultiKindFeedParser Method use(com.google.api.client.http.HttpResponse, java.lang.Class<T>, java.lang.Class[])
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field accept
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field authenticate
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field cacheControl
+MISSING @SINCE TAG: com.google.api.client.http.UrlEncodedParser Field CONTENT_TYPE
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field contentEncoding
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field contentLength
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field contentMD5
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field contentRange
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field contentType
+MISSING @SINCE TAG: com.google.api.client.http.UrlEncodedContent Field contentType
+MISSING @SINCE TAG: com.google.api.client.http.UrlEncodedParser Field contentType
+MISSING @SINCE TAG: com.google.api.client.http.UrlEncodedContent Field data
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field date
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field etag
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field expires
+MISSING @SINCE TAG: com.google.api.client.http.GenericUrl Field fragment
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field gdataClient
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field gdataKey
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field gdataVersion
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field googAcl
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field googCopySource
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field googCopySourceIfMatch
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field googCopySourceIfModifiedSince
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field googCopySourceIfNoneMatch
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field googCopySourceIfUnmodifiedSince
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field googDate
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field googMetadataDirective
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field ifModifiedSince
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field ifUnmodifiedSince
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field lastModified
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field location
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field methodOverride
+MISSING @SINCE TAG: com.google.api.client.http.GenericUrl Field pathParts
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field range
+MISSING @SINCE TAG: com.google.api.client.http.HttpHeaders Field retryAfter
+MISSING @SINCE TAG: com.google.api.client.googleapis.json.DiscoveryDocument Field serviceDefinition
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field slug
+MISSING @SINCE TAG: com.google.api.client.googleapis.GoogleHeaders Field SLUG_ESCAPER
+MISSING @SINCE TAG: com.google.api.client.http.HttpRequest Field transport
