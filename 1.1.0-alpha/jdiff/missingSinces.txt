@@ -1,0 +1,13 @@
+OK: com.google.api.client.xml.atom.AtomFeedContent Class
+OK: com.google.api.client.googleapis.json.DiscoveryDocument.APIDefinition Class
+OK: com.google.api.client.googleapis.json.GoogleApi Class
+OK: com.google.api.client.http.MultipartRelatedContent Class
+NO DOC BLOCK: com.google.api.client.javanet.NetHttpTransport Constructor (void)
+OK: com.google.api.client.googleapis.auth.clientlogin.ClientLogin Field accountType
+OK: com.google.api.client.googleapis.json.DiscoveryDocument Field apiDefinition
+OK: com.google.api.client.googleapis.json.DiscoveryDocument.ServiceDefinition Field baseUrl
+OK: com.google.api.client.javanet.NetHttpTransport Field connectTimeout
+OK: com.google.api.client.apache.ApacheHttpTransport Field httpClient
+OK: com.google.api.client.googleapis.json.DiscoveryDocument.ServiceMethod Field methodType
+OK: com.google.api.client.googleapis.json.DiscoveryDocument.ServiceMethod Field pathUrl
+OK: com.google.api.client.javanet.NetHttpTransport Field readTimeout
