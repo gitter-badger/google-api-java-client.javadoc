@@ -1,0 +1,20 @@
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenErrorResponse.KnownError Class
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenRequest.AssertionGrant Class
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenRequest.AuthorizationCodeGrant Class
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenRequest.RefreshTokenGrant Class
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenRequest.ResourceOwnerPasswordCredentialsGrant Class
+OK: com.google.api.client.auth.oauth2.AuthorizationRequestUrl Class
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AuthorizationRequestUrl.ResponseType Class
+OK: com.google.api.client.auth.oauth2.AuthorizationResponse Class
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AuthorizationResponse.KnownError Class
+NO DOC BLOCK: com.google.api.client.auth.oauth2.AccessTokenRequest Constructor (void)
+OK: com.google.api.client.util.Strings Method fromBytesUtf8(byte[])
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenErrorResponse Method getErrorCodeIfKnown()
+OK: com.google.api.client.http.HttpHeaders Method setBasicAuthentication(java.lang.String, java.lang.String)
+OK: com.google.api.client.util.Strings Method toBytesUtf8(java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenRequest Field authorizationServerUrl
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenErrorResponse Field errorDescription
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenErrorResponse Field errorUri
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenRequest Field grantType
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenRequest Field scope
+MISSING @SINCE TAG: com.google.api.client.auth.oauth2.AccessTokenRequest Field useBasicAuthorization
