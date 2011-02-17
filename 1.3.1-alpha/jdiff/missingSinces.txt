@@ -1,0 +1,39 @@
+OK: com.google.api.client.googleapis.xml.atom.GoogleAtom Class
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport Class
+OK: com.google.api.client.googleapis.GoogleUtils Class
+OK: com.google.api.client.http.HttpMethod Class
+OK: com.google.api.client.json.JsonEncoding Class
+OK: com.google.api.client.json.JsonFactory Class
+OK: com.google.api.client.json.JsonGenerator Class
+OK: com.google.api.client.json.JsonParser Class
+OK: com.google.api.client.json.JsonString Class
+OK: com.google.api.client.json.JsonToken Class
+OK: com.google.api.client.http.HttpTransport Method buildDeleteRequest(java.lang.String)
+OK: com.google.api.client.http.HttpTransport Method buildGetRequest(java.lang.String)
+OK: com.google.api.client.http.HttpTransport Method buildHeadRequest(java.lang.String)
+OK: com.google.api.client.http.HttpTransport Method buildPatchRequest(java.lang.String)
+OK: com.google.api.client.http.HttpTransport Method buildPostRequest(java.lang.String)
+OK: com.google.api.client.http.HttpTransport Method buildPutRequest(java.lang.String)
+OK: com.google.api.client.googleapis.GoogleUrl Method create(java.lang.String, java.lang.String, java.lang.Object)
+OK: com.google.api.client.xml.XmlNamespaceDictionary Method getAliasForUri(java.lang.String)
+OK: com.google.api.client.xml.XmlNamespaceDictionary Method getAliasToUriMap()
+OK: com.google.api.client.xml.XmlNamespaceDictionary Method getUriForAlias(java.lang.String)
+OK: com.google.api.client.xml.XmlNamespaceDictionary Method getUriToAliasMap()
+OK: com.google.api.client.xml.XmlNamespaceDictionary Method set(java.lang.String, java.lang.String)
+OK: com.google.api.client.http.HttpTransport Method supportsHead()
+OK: com.google.api.client.http.HttpTransport Method supportsPatch()
+OK: com.google.api.client.googleapis.auth.authsub.AuthSubHelper Field authSubTransport
+OK: com.google.api.client.googleapis.json.GoogleApi Field discoveryTransport
+OK: com.google.api.client.googleapis.json.GoogleApi Field discoveryUrl
+OK: com.google.api.client.json.GenericJson Field jsonFactory
+OK: com.google.api.client.googleapis.json.GoogleApi Field jsonFactory
+OK: com.google.api.client.auth.oauth2.AccessTokenRequest Field jsonFactory
+OK: com.google.api.client.googleapis.GoogleUrl Field key
+OK: com.google.api.client.googleapis.MethodOverrideIntercepter Field override
+OK: com.google.api.client.googleapis.auth.clientlogin.ClientLogin Field serverUrl
+OK: com.google.api.client.googleapis.auth.clientlogin.ClientLogin Field transport
+OK: com.google.api.client.auth.oauth2.AccessTokenRequest Field transport
+OK: com.google.api.client.auth.oauth.AbstractOAuthGetToken Field transport
+OK: com.google.api.client.googleapis.GoogleUrl Field userip
+OK: com.google.api.client.util.Strings Field UTF8_CHARSET
+OK: com.google.api.client.util.Strings Field VERSION
