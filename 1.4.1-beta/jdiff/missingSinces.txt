@@ -1,0 +1,68 @@
+OK: com.google.api.client.http.AbstractInputStreamContent Class
+OK: com.google.api.client.util.ArrayValueMap Class
+OK: com.google.api.client.http.ByteArrayContent Class
+OK: com.google.api.client.util.Data Class
+OK: com.google.api.client.http.FileContent Class
+OK: com.google.api.client.googleapis.json.GoogleJsonError Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.json.GoogleJsonError.ErrorInfo Class
+OK: com.google.api.client.http.HttpExecuteInterceptor Interface
+OK: com.google.api.client.http.HttpRequestFactory Class
+OK: com.google.api.client.http.HttpRequestInitializer Interface
+OK: com.google.api.client.http.HttpUnsuccessfulResponseHandler Interface
+OK: com.google.api.client.googleapis.MethodOverride Class
+OK: com.google.api.client.util.NullValue Class
+OK: com.google.api.client.util.Types Class
+OK: com.google.api.client.util.Value Class
+OK: com.google.api.client.googleapis.auth.storage.GoogleStorageAuthentication Constructor (java.lang.String, java.lang.String)
+OK: com.google.api.client.testing.http.MockLowLevelHttpRequest Constructor (java.lang.String)
+OK: com.google.api.client.http.HttpRequest Method addParser(com.google.api.client.http.HttpParser)
+OK: com.google.api.client.http.HttpTransport Method createRequestFactory()
+OK: com.google.api.client.http.HttpTransport Method createRequestFactory(com.google.api.client.http.HttpRequestInitializer)
+OK: com.google.api.client.http.HttpResponse Method disconnect()
+OK: com.google.api.client.http.LowLevelHttpResponse Method disconnect()
+NO DOC BLOCK: com.google.api.client.util.FieldInfo Method enumValue()
+OK: com.google.api.client.json.JsonFactory Method fromString(java.lang.String, java.lang.Class<T>)
+OK: com.google.api.client.util.FieldInfo Method getField()
+OK: com.google.api.client.util.FieldInfo Method getGenericType()
+NO DOC BLOCK: com.google.api.client.http.InputStreamContent Method getInputStream()
+OK: com.google.api.client.util.FieldInfo Method getName()
+MISSING @SINCE TAG: com.google.api.client.util.ClassInfo Method getNames()
+OK: com.google.api.client.http.HttpRequest Method getParser(java.lang.String)
+OK: com.google.api.client.util.FieldInfo Method getType()
+OK: com.google.api.client.util.ClassInfo Method getUnderlyingClass()
+NO DOC BLOCK: com.google.api.client.auth.oauth.OAuthParameters Method initialize(com.google.api.client.http.HttpRequest)
+NO DOC BLOCK: com.google.api.client.googleapis.auth.clientlogin.ClientLogin.Response Method initialize(com.google.api.client.http.HttpRequest)
+NO DOC BLOCK: com.google.api.client.googleapis.auth.oauth.GoogleOAuthDomainWideDelegation Method initialize(com.google.api.client.http.HttpRequest)
+NO DOC BLOCK: com.google.api.client.googleapis.auth.storage.GoogleStorageAuthentication Method initialize(com.google.api.client.http.HttpRequest)
+NO DOC BLOCK: com.google.api.client.auth.oauth.OAuthParameters Method intercept(com.google.api.client.http.HttpRequest)
+NO DOC BLOCK: com.google.api.client.googleapis.auth.clientlogin.ClientLogin.Response Method intercept(com.google.api.client.http.HttpRequest)
+NO DOC BLOCK: com.google.api.client.googleapis.auth.storage.GoogleStorageAuthentication Method intercept(com.google.api.client.http.HttpRequest)
+OK: com.google.api.client.util.ClassInfo Method isEnum()
+OK: com.google.api.client.util.FieldInfo Method isFinal()
+OK: com.google.api.client.util.FieldInfo Method isPrimitive()
+OK: com.google.api.client.http.HttpRequest Method normalizeMediaType(java.lang.String)
+OK: com.google.api.client.util.FieldInfo Method of(java.lang.Enum<?>)
+MISSING @SINCE TAG: com.google.api.client.util.FieldInfo Method of(java.lang.reflect.Field)
+OK: com.google.api.client.http.HttpContent Method retrySupported()
+NO DOC BLOCK: com.google.api.client.http.InputStreamContent Method retrySupported()
+NO DOC BLOCK: com.google.api.client.http.MultipartRelatedContent Method retrySupported()
+NO DOC BLOCK: com.google.api.client.http.UrlEncodedContent Method retrySupported()
+NO DOC BLOCK: com.google.api.client.http.json.JsonHttpContent Method retrySupported()
+NO DOC BLOCK: com.google.api.client.http.xml.AbstractXmlHttpContent Method retrySupported()
+NO DOC BLOCK: com.google.api.client.testing.http.MockHttpContent Method retrySupported()
+OK: com.google.api.client.http.LowLevelHttpRequest Method setTimeout(int, int)
+OK: com.google.api.client.http.HttpTransport Method shutdown()
+OK: com.google.api.client.http.apache.ApacheHttpTransport Method shutdown()
+OK: com.google.api.client.http.HttpRequest Field connectTimeout
+OK: com.google.api.client.testing.http.MockLowLevelHttpRequest Field content
+OK: com.google.api.client.http.HttpRequest Field enableGZipContent
+OK: com.google.api.client.testing.http.MockLowLevelHttpRequest Field headers
+OK: com.google.api.client.http.HttpRequest Field interceptor
+OK: com.google.api.client.http.HttpRequest Field numRetries
+OK: com.google.api.client.googleapis.auth.oauth.GoogleOAuthDomainWideDelegation Field parameters
+OK: com.google.api.client.http.HttpRequest Field readTimeout
+OK: com.google.api.client.http.HttpResponse Field request
+OK: com.google.api.client.http.HttpRequest Field responseHeaders
+OK: com.google.api.client.http.HttpRequest Field unsuccessfulResponseHandler
+OK: com.google.api.client.testing.http.MockLowLevelHttpRequest Field url
+OK: com.google.api.client.http.HttpRequest Field USER_AGENT_SUFFIX
