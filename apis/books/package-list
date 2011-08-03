@@ -1,2 +1,2 @@
-com.google.api.services.books
-com.google.api.services.books.model
+com.google.api.services.books.v1
+com.google.api.services.books.v1.model
