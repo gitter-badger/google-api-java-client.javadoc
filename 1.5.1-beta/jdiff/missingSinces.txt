@@ -1,0 +1,8 @@
+OK: com.google.api.client.googleapis.xml.atom.AtomPatchContent Constructor (XmlNamespaceDictionary, java.lang.Object)
+OK: com.google.api.client.googleapis.xml.atom.AtomPatchRelativeToOriginalContent Constructor (XmlNamespaceDictionary, java.lang.Object, java.lang.Object)
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.draft10.GoogleAccessTokenRequest.GoogleAssertionGrant Constructor (HttpTransport, JsonFactory, java.lang.String, java.lang.String)
+OK: com.google.api.client.googleapis.json.JsonCContent Constructor (JsonFactory, java.lang.Object)
+OK: com.google.api.client.googleapis.json.JsonCParser Constructor (JsonFactory)
+OK: com.google.api.client.googleapis.xml.atom.AtomPatchRelativeToOriginalContent Method getOriginalEntry()
+OK: com.google.api.client.googleapis.xml.atom.AtomPatchRelativeToOriginalContent Method getPatchedEntry()
+OK: com.google.api.client.googleapis.xml.atom.GoogleAtom Field ERROR_CONTENT_TYPE
