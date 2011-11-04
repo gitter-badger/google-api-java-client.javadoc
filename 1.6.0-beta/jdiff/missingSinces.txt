@@ -1,0 +1,5 @@
+OK: com.google.api.client.googleapis.json.GoogleJsonResponseException Class
+OK: com.google.api.client.googleapis.auth.oauth2.draft10.GoogleAuthorizationRequestUrl Method getAccessType()
+OK: com.google.api.client.googleapis.auth.oauth2.draft10.GoogleAuthorizationRequestUrl Method getApprovalPrompt()
+OK: com.google.api.client.googleapis.auth.oauth2.draft10.GoogleAuthorizationRequestUrl Method setAccessType(java.lang.String)
+OK: com.google.api.client.googleapis.auth.oauth2.draft10.GoogleAuthorizationRequestUrl Method setApprovalPrompt(java.lang.String)
