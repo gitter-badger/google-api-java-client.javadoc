@@ -1,0 +1,12 @@
+OK: com.google.api.client.googleapis.auth.clientlogin.ClientLoginResponseException Class
+OK: com.google.api.client.googleapis.MediaHttpUploader Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.MediaHttpUploader.UploadState Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.MediaHttpUploaderProgressListener Interface
+MISSING @SINCE TAG: com.google.api.client.googleapis.services.GoogleClient Method buildHttpRequest(HttpMethod, GenericUrl, java.lang.Object)
+MISSING @SINCE TAG: com.google.api.client.googleapis.services.GoogleClient Method buildHttpRequest(HttpMethod, java.lang.String, JsonHttpRequest)
+OK: com.google.api.client.googleapis.json.GoogleJsonResponseException Method execute(JsonFactory, HttpRequest)
+NO DOC BLOCK: com.google.api.client.googleapis.services.GoogleClient Method executeUnparsed(HttpMethod, GenericUrl, java.lang.Object)
+OK: com.google.api.client.googleapis.GoogleHeaders Method getUploadContentLength()
+OK: com.google.api.client.googleapis.GoogleHeaders Method getUploadContentType()
+OK: com.google.api.client.googleapis.GoogleHeaders Method setUploadContentLength(long)
+OK: com.google.api.client.googleapis.GoogleHeaders Method setUploadContentType(java.lang.String)
