@@ -1,0 +1,13 @@
+com.google.api.client.googleapis
+com.google.api.client.googleapis.auth
+com.google.api.client.googleapis.auth.clientlogin
+com.google.api.client.googleapis.auth.oauth
+com.google.api.client.googleapis.auth.oauth2
+com.google.api.client.googleapis.auth.oauth2.draft10
+com.google.api.client.googleapis.extensions.android2.auth
+com.google.api.client.googleapis.extensions.appengine.auth.oauth2
+com.google.api.client.googleapis.extensions.auth.helpers.oauth
+com.google.api.client.googleapis.extensions.auth.helpers.oauth2.draft10
+com.google.api.client.googleapis.json
+com.google.api.client.googleapis.services
+com.google.api.client.googleapis.xml.atom
