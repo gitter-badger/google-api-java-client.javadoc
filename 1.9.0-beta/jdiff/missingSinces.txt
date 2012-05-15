@@ -1,0 +1,22 @@
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier.Builder Class
+OK: com.google.api.client.googleapis.json.GoogleJsonErrorContainer Class
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport.Builder Class
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleCredential Constructor (AccessMethod, HttpTransport, JsonFactory, java.lang.String, HttpExecuteInterceptor, HttpRequestInitializer, java.util.List<CredentialRefreshListener>, java.lang.String, java.lang.String, java.security.PrivateKey, java.lang.String, Clock)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload Constructor (Clock)
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier Constructor (HttpTransport, JsonFactory)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier Constructor (java.util.Set<java.lang.String>, HttpTransport, JsonFactory)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier Constructor (java.util.Set<java.lang.String>, HttpTransport, JsonFactory, Clock)
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport Constructor (HttpTransport, JsonFactory)
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport Constructor (HttpTransport, JsonFactory, java.lang.String, java.lang.String, java.lang.String)
+MISSING @SINCE TAG: com.google.api.client.googleapis.services.GoogleClient Method batch()
+MISSING @SINCE TAG: com.google.api.client.googleapis.services.GoogleClient Method batch(HttpRequestInitializer)
+NO DOC BLOCK: com.google.api.client.googleapis.services.GoogleClient Method executeUnparsed(HttpRequest)
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport Method getAccept()
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier Method getClientIds()
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport Method getContentType()
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport Method getHttpTransport()
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport Method getJsonFactory()
+OK: com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport Method getRpcServerUrl()
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder Method setClock(Clock)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier Method verify(java.util.Set<java.lang.String>, com.google.api.client.googleapis.auth.oauth2.GoogleIdToken)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier Method verify(java.lang.String)
