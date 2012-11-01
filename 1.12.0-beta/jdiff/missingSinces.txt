@@ -1,0 +1,17 @@
+OK: com.google.api.client.googleapis.services.AbstractGoogleClient Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.services.AbstractGoogleClient.Builder Class
+OK: com.google.api.client.googleapis.services.AbstractGoogleClientRequest Class
+OK: com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.Builder Class
+OK: com.google.api.client.googleapis.services.CommonGoogleClientRequestInitializer Class
+OK: com.google.api.client.googleapis.services.GoogleClientRequestInitializer Interface
+OK: com.google.api.client.googleapis.GoogleUtils Class
+OK: com.google.api.client.googleapis.MethodOverride.Builder Class
+OK: com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential Constructor (AppIdentityService, java.util.List<java.lang.String>)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl Constructor (java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable<java.lang.String>)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeTokenRequest Constructor (HttpTransport, JsonFactory, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+OK: com.google.api.client.googleapis.media.MediaHttpDownloader Method download(GenericUrl, HttpHeaders, java.io.OutputStream)
+OK: com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential Method getAppIdentityService()
+OK: com.google.api.client.googleapis.media.MediaHttpUploader Method getInitiationRequestMethod()
+OK: com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential Method getScopes()
+OK: com.google.api.client.googleapis.media.MediaHttpUploader Method setInitiationRequestMethod(java.lang.String)
+OK: com.google.api.client.googleapis.GoogleHeaders Method setUploadContentLength(java.lang.Long)
