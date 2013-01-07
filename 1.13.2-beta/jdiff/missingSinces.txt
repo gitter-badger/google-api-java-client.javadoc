@@ -1,0 +1,11 @@
+OK: com.google.api.client.googleapis.auth.clientlogin.ClientLogin Method getAuthorizationHeaderValue(java.lang.String)
+OK: com.google.api.client.googleapis.media.MediaHttpUploader Method getDisableGZipContent()
+OK: com.google.api.client.googleapis.media.MediaHttpDownloader Method getLastBytePosition()
+MISSING @SINCE TAG: com.google.api.client.googleapis.batch.json.JsonBatchCallback Method onFailure(com.google.api.client.googleapis.json.GoogleJsonError, HttpHeaders)
+NO DOC BLOCK: com.google.api.client.googleapis.batch.json.JsonBatchCallback Method onFailure(com.google.api.client.googleapis.json.GoogleJsonErrorContainer, HttpHeaders)
+OK: com.google.api.client.googleapis.media.MediaHttpDownloader Method setContentRange(long, int)
+OK: com.google.api.client.googleapis.media.MediaHttpUploader Method setDisableGZipContent(boolean)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder Method setServiceAccountPrivateKeyFromPemFile(java.io.File)
+OK: com.google.api.client.googleapis.media.MediaHttpUploader Field CONTENT_LENGTH_HEADER
+OK: com.google.api.client.googleapis.media.MediaHttpUploader Field CONTENT_TYPE_HEADER
+OK: com.google.api.client.googleapis.MethodOverride Field HEADER

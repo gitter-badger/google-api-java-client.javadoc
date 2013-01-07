@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<comments
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+  xsi:noNamespaceSchemaLocation='comments.xsd'
+  name="Google_API_Client_Library_for_Java_1.12.0-beta_to_Google_API_Client_Library_for_Java_1.13.2-beta"
+  jdversion="1.1.1">
+
+<!-- This file contains comments for a JDiff report. -->
+<!-- It is used only in generating the report, and does not need to ship with the final report. -->
+
+<!-- The id attribute in an identifier element identifies the change as noted in the report. -->
+<!-- An id has the form package[.class[.[ctor|method|field].signature]], where [] indicates optional text. -->
+<!-- A comment element can have multiple identifier elements, which will -->
+<!-- will cause the same text to appear at each place in the report, but -->
+<!-- will be converted to separate comments when the comments file is used. -->
+<!-- HTML tags in the text field will appear in the report. -->
+<!-- You also need to close p HTML elements, used for paragraphs - see the top-level documentation. -->
+<comment>
+  <identifier id="com.google.api.client.googleapis"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.GoogleHeaders"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.GoogleHeaders.getGoogleLoginValue_changed(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.GoogleHeaders.setUploadContentLength_changed(long)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.GoogleUrl"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.MethodOverride"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.MethodOverride.HEADER"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.MethodOverride.ctor_removed(java.util.EnumSet&lt;HttpMethod&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.clientlogin"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.clientlogin.ClientLogin"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.clientlogin.ClientLogin.getAuthorizationHeaderValue_added(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder.setServiceAccountPrivateKeyFromPemFile_added(java.io.File)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier.ctor_changed(HttpTransport, JsonFactory)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.BatchCallback"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.BatchCallback.onFailure_changed(E, HttpHeaders)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.BatchCallback.onSuccess_changed(T, HttpHeaders)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.BatchRequest"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.json"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.json.JsonBatchCallback"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.json.JsonBatchCallback.onFailure_added(com.google.api.client.googleapis.json.GoogleJsonError, HttpHeaders)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.json.JsonBatchCallback.onFailure_added(com.google.api.client.googleapis.json.GoogleJsonErrorContainer, HttpHeaders)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.json.JsonBatchCallback.onFailure_removed(com.google.api.client.googleapis.json.GoogleJsonError, com.google.api.client.googleapis.GoogleHeaders)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.batch.json.JsonBatchCallback.onFailure_removed(com.google.api.client.googleapis.json.GoogleJsonErrorContainer, com.google.api.client.googleapis.GoogleHeaders)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.json"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.json.JsonCParser"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.json.JsonCParser.initializeParser_changed(JsonParser)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpDownloader"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpDownloader.getLastBytePosition_added()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpDownloader.setBytesDownloaded_changed(long)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpDownloader.setContentRange_added(long, int)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.CONTENT_LENGTH_HEADER"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.CONTENT_TYPE_HEADER"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.ctor_changed(AbstractInputStreamContent, HttpTransport, HttpRequestInitializer)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.getDisableGZipContent_added()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.getInitiationHeaders_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.getInitiationMethod_removed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.getNumBytesUploaded_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.getProgress_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.setChunkSize_changed(int)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.setDisableGZipContent_added(boolean)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.setInitiationHeaders_changed(HttpHeaders)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.setInitiationMethod_removed(HttpMethod)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploaderProgressListener"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.GoogleClient"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.GoogleClient.Builder"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.GoogleKeyInitializer"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.json"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.json.AbstractGoogleJsonClientRequest"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.json.AbstractGoogleJsonClientRequest.queue_changed(com.google.api.client.googleapis.batch.BatchRequest, com.google.api.client.googleapis.batch.json.JsonBatchCallback&lt;T&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.testing.services.json"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.testing.services.json.MockGoogleJsonClient.Builder"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.testing.services.json.MockGoogleJsonClient.Builder.ctor_changed(HttpTransport, JsonFactory, java.lang.String, java.lang.String, HttpRequestInitializer, boolean)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+
+</comments>
