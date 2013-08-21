@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<comments
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+  xsi:noNamespaceSchemaLocation='comments.xsd'
+  name="Google_API_Client_Library_for_Java_1.15.0-rc_to_Google_API_Client_Library_for_Java_1.16.0-rc"
+  jdversion="1.1.1">
+
+<!-- This file contains comments for a JDiff report. -->
+<!-- It is used only in generating the report, and does not need to ship with the final report. -->
+
+<!-- The id attribute in an identifier element identifies the change as noted in the report. -->
+<!-- An id has the form package[.class[.[ctor|method|field].signature]], where [] indicates optional text. -->
+<!-- A comment element can have multiple identifier elements, which will -->
+<!-- will cause the same text to appear at each place in the report, but -->
+<!-- will be converted to separate comments when the comments file is used. -->
+<!-- HTML tags in the text field will appear in the report. -->
+<!-- You also need to close p HTML elements, used for paragraphs - see the top-level documentation. -->
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.Builder"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.Builder.ctor_removed(HttpTransport, JsonFactory, com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets, java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.Builder.ctor_removed(HttpTransport, JsonFactory, java.lang.String, java.lang.String, java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.Builder.setCredentialCreatedListener_added(CredentialCreatedListener)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.Builder.setCredentialDataStore_added(&lt;any&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.Builder.setDataStoreFactory_added(DataStoreFactory)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.Builder.setScopes_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.Builder.setScopes_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeFlow.ctor_removed(HttpTransport, JsonFactory, java.lang.String, java.lang.String, java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl.ctor_removed(com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets, java.lang.String, java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl.ctor_removed(java.lang.String, java.lang.String, java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl.ctor_removed(java.lang.String, java.lang.String, java.lang.String, java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl.setResponseTypes_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl.setResponseTypes_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl.setScopes_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeRequestUrl.setScopes_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeTokenRequest"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeTokenRequest.setScopes_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleAuthorizationCodeTokenRequest.setScopes_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleBrowserClientRequestUrl"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleBrowserClientRequestUrl.ctor_changed(java.lang.String, java.lang.String, java.util.Collection&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleBrowserClientRequestUrl.ctor_removed(com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets, java.lang.String, java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleBrowserClientRequestUrl.ctor_removed(java.lang.String, java.lang.String, java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleBrowserClientRequestUrl.setResponseTypes_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleBrowserClientRequestUrl.setResponseTypes_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleBrowserClientRequestUrl.setScopes_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleBrowserClientRequestUrl.setScopes_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets.load_removed(JsonFactory, java.io.InputStream)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleCredential"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder.getServiceAccountScopes_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder.setServiceAccountScopes_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder.setServiceAccountScopes_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleCredential.getServiceAccountScopes_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.getAccessTokenHash_removed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setAccessTokenHash_changed(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setAudience_added(java.lang.Object)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setAuthorizationTimeSeconds_added(java.lang.Long)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setAuthorizedParty_added(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setClassReference_added(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setExpirationTimeSeconds_added(java.lang.Long)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setIssuedAtTimeSeconds_added(java.lang.Long)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setIssuer_added(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setJwtId_added(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setMethodsReferences_added(java.util.List&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setNonce_added(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setNotBeforeTimeSeconds_added(java.lang.Long)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setSubject_added(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload.setType_added(java.lang.String)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleRefreshTokenRequest"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleRefreshTokenRequest.setScopes_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.auth.oauth2.GoogleRefreshTokenRequest.setScopes_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.android.gms.auth"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.android.gms.auth.GoogleAccountCredential"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.android.gms.auth.GoogleAccountCredential.usingOAuth2_removed(Context, java.lang.String, java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.Builder"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.Builder.ctor_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.Builder.ctor_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.Builder.getScopes_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.ctor_removed(java.lang.Iterable&lt;java.lang.String&gt;)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.ctor_removed(java.lang.String[])"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.getScopes_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.notifications"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.subscriptions"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.subscriptions.AppEngineSubscriptionStore"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.appengine.subscriptions.CachedAppEngineSubscriptionStore"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.servlet.notifications"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.servlet.subscriptions"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.servlet.subscriptions.AbstractWebHookServlet"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.extensions.servlet.subscriptions.JdoSubscriptionStore"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.json"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.json.GoogleJsonRpcHttpTransport.Builder"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpDownloader"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpDownloader.isBackOffPolicyEnabled_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpDownloader.setBackOffPolicyEnabled_changed(boolean)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.getNumBytesUploaded_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.isBackOffPolicyEnabled_changed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.serverErrorCallback_removed()"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.media.MediaHttpUploader.setBackOffPolicyEnabled_changed(boolean)"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.notifications"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.notifications.json"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.notifications.json.gson"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.notifications.json.jackson2"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.json"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.json.CommonGoogleJsonClientRequestInitializer"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.services.protobuf"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.EventTypes"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.MemorySubscriptionStore"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.Notification"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationCallback"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationHeaders"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationHeaders.CHANGED_HEADER"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationHeaders.CLIENT_TOKEN"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationHeaders.EVENT_TYPE_HEADER"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationHeaders.MESSAGE_NUMBER_HEADER"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationHeaders.SUBSCRIPTION_ID"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationHeaders.TOPIC_ID"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.NotificationHeaders.TOPIC_URI"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.StoredSubscription"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.SubscriptionStore"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.TypedNotification"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.TypedNotificationCallback"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.UnparsedNotification"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.json"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.subscriptions.json.JsonNotificationCallback"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.testing.notifications"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.testing.services.protobuf"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.testing.subscriptions"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+<comment>
+  <identifier id="com.google.api.client.googleapis.testing.subscriptions.MockNotificationCallback"/>
+  <text>
+    InsertCommentsHere
+  </text>
+</comment>
+
+</comments>
