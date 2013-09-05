@@ -1,0 +1,9 @@
+OK: com.google.api.client.googleapis.auth.oauth2.GooglePublicKeysManager Class
+OK: com.google.api.client.googleapis.auth.oauth2.GooglePublicKeysManager.Builder Class
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier Constructor (com.google.api.client.googleapis.auth.oauth2.GooglePublicKeysManager)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier.Builder Constructor (com.google.api.client.googleapis.auth.oauth2.GooglePublicKeysManager)
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier.Builder Method getPublicCerts()
+OK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier Method getPublicKeysManager()
+NO DOC BLOCK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier.Builder Method setAcceptableTimeSkewSeconds(long)
+NO DOC BLOCK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier.Builder Method setAudience(java.util.Collection<java.lang.String>)
+NO DOC BLOCK: com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier.Builder Method setIssuer(java.lang.String)
