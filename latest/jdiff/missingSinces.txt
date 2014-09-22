@@ -1,0 +1,10 @@
+MISSING @SINCE TAG: com.google.api.client.googleapis.extensions.appengine.auth.oauth2.AppIdentityCredential.AppEngineCredentialWrapper Class
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential Method createScoped(java.util.Collection<java.lang.String>)
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential Method createScopedRequired()
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential Method fromStream(java.io.InputStream)
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential Method fromStream(java.io.InputStream, HttpTransport, JsonFactory)
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential Method getApplicationDefault()
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential Method getApplicationDefault(HttpTransport, JsonFactory)
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential Method getServiceAccountPrivateKeyId()
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder Method getServiceAccountPrivateKeyId()
+MISSING @SINCE TAG: com.google.api.client.googleapis.auth.oauth2.GoogleCredential.Builder Method setServiceAccountPrivateKeyId(java.lang.String)
